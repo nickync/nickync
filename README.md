@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickync&hide=roff,html,Jupyter%20Notebook,&langs_count=8&layout=compact)](https://github.com/nickync/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=nickync&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=nickync)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **nickync/nickync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
