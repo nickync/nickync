@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![nickync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickync&show_icons=true&theme=dark))](https://github.com/nickync/github-readme-stats)
+[![nickync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickync&show_icons=true&theme=blue-green))](https://github.com/nickync/github-readme-stats)
 
 <!--
 **nickync/nickync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
