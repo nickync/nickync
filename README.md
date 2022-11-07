@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=nickync)
 
 [![nickync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickync&show_icons=true&theme=blue-green)](https://github.com/nickync/github-readme-stats)
 
