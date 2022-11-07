@@ -13,7 +13,7 @@
 
 [![GitHub license](https://badgen.net/github/license/nickync/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-[![GitHub stars](https://badgen.net/github/stars/nickync/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://badgen.net/github/stars/nickync)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 <!--
 **nickync/nickync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
