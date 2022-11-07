@@ -2,7 +2,7 @@
 
 [![nickync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickync&show_icons=true&theme=blue-green)](https://github.com/nickync/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickync&hide=roff,Jupyter%20Notebook&langs_count=8&layout=compact)](https://github.com/nickync/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickync&hide=roff,Jupyter%20Notebook,html&langs_count=8&layout=compact)](https://github.com/nickync/github-readme-stats)
 
 
 <!--
