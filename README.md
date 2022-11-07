@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nickync)
 
-[![nickync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickync&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![nickync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickync&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickync&hide=roff,html,Jupyter%20Notebook,&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
